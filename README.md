@@ -24,7 +24,7 @@ Al momento de proceder al cierre del carrito y posterior compra, el sistema debe
 domicilio y tarjeta principal con la opción de que el comprador pueda cambiarlos en caso de ser
 necesario.
 
-#Puntos a Desarrollar
+# Puntos a Desarrollar
 1 - Desarrollar el diagrama de clases, solamente del dominio de la aplicación.
 2 - Generar un modelo de persistencia de los datos, usando la persistencia en archivos orientada a String
 y Byte (queda a libre criterio la selección de cada persistencia para cada entidad del dominio). Generar
